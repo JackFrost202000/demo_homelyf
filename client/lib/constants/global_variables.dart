@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-String uri = 'https://homelyf-demo.onrender.com/';
+String uri = 'https://demo-homelyf.onrender.com';
 
 class GlobalVariables {
   // COLORS

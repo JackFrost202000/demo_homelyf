@@ -24,7 +24,7 @@ const options = {
     },
     servers: [
       {
-        url: "https://homelyf-demo.onrender.com/",
+        url: "https://demo-homelyf.onrender.com",
       },
     ],
   },
